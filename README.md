@@ -3,7 +3,7 @@ A library for Texas Instruments' ADS1220 running with RPi, written in Python
 
 ---
 
-The library is focused on usage with a Raspberry Pi as it makes use of `spidev` and `RPi.GPIO` packages. Besides this it is just based on the official datasheet of ADS1220 provided by Texas Instruments (find here)[https://www.ti.com/lit/ds/symlink/ads1220.pdf] or the datasheet version used for this library.
+The library is focused on usage with a Raspberry Pi as it makes use of `spidev` and `RPi.GPIO` packages. Besides this it is just based on the official datasheet of ADS1220 provided by Texas Instruments ([find here](https://www.ti.com/lit/ds/symlink/ads1220.pdf)) or the datasheet version used for this library.
 
 ## Usage   
 No license up to now: The library can be freely used and modified, but the credits/author information about me should be kept or at least some credits placed somewhere else.
